@@ -1,4 +1,4 @@
-> [!WARNING]
+> [!NOTE]
 > This is **currently a dummy project**, with a single assembly and bash file.
 
 # CurtainOS
